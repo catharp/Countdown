@@ -1,2 +1,5 @@
 # countdown
-Set a date to look forward to and then count down the seconds!
+Count down the seconds until Friday Night Happy Hour!
+
+# getting started
+To run locally, just clone the repo and run 'npm start'

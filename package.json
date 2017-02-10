@@ -1,0 +1,30 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "set a date in the future in watch seconds tick away",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catharp/Countdown.git"
+  },
+  "keywords": [
+    "clock"
+  ],
+  "author": "collin tharp <catharp@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catharp/Countdown/issues"
+  },
+  "homepage": "https://github.com/catharp/Countdown#readme"
+}

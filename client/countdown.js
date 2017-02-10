@@ -3,7 +3,10 @@ angular.module('countdown', ['angularMoment'])
   templateUrl: 'clock.html',
   controller: function($timeout, moment) {
     var tick = () => {
-      this.time = moment();
+      this.day = moment().day();
+      this.hour = moment().hour();
+      this.minute = moment().minute();
+      this.second = moment().second();
       $timeout(tick, 999);
     }
     tick();

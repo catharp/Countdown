@@ -8,14 +8,22 @@ body {
   border-radius: 5px;
   font-family: 'Lato', sans-serif;
   text-align: center;
+  width: 70px;
+  margin: 5px;
+  padding: 12px;
+  padding-bottom: 16px;
 }
 
 .counter {
   font-size: 24px;
+  margin: 0;
+  padding: 0;
 }
 
 .label {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: bolder;
   color: #BBB;
+  margin: 0;
+  padding: 0;
 }

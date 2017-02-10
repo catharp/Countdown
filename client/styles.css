@@ -6,5 +6,6 @@ body {
   display: inline-block;
   border: 2px solid #EEE;
   border-radius: 5px;
+  font-family: 'Lato', sans-serif;
   text-align: center;
 }
